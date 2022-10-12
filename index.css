@@ -78,7 +78,7 @@
   .imgBox {
     display: flex;
   }
-  .Image {
+  .image {
     border-radius: 50%;
     width: 90%;
     margin-top: 5%;
@@ -204,7 +204,7 @@
     .imgBox {
       display: flex;
     }
-    .Image {
+    .image {
       border-radius: 50%;
       width: 90%;
       margin-top: 5%;
